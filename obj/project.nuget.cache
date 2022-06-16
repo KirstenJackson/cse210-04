@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEYu/G+OESXqtDohmXodVpr44DxkXClKQ8xvOCUNDTO07EVs9svRwjXfSeQR/deVXJjRKiA44pkgtAhcafTLKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krstn\\.vscode\\cse210\\cse210-04\\cse210-04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krstn\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\krstn\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\krstn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
